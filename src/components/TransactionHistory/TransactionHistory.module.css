@@ -1,0 +1,27 @@
+.transactionHistory {
+  text-align: center;
+  box-shadow: 0 0 10px #444;
+}
+
+.tableHead {
+  font-size: 30px;
+  background-color: aqua;
+  color: white;
+}
+
+.tableRow {
+  padding: 10px 50px;
+}
+
+.tableBody {
+  font-size: 20px;
+  color: gray;
+}
+
+td {
+  border: 1px solid grey;
+}
+
+tr:nth-child(even) {
+  background-color: lightgrey;
+}
